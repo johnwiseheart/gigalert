@@ -1,5 +1,5 @@
 <?php
-define("WWW_LINK","http://johnwiseheart.me/");
-define("SUB_LINK","projects/gigalert/");
+define("WWW_LINK","http://gigalert.apps.jcaw.me/");
+define("SUB_LINK","/");
 
 ?>
